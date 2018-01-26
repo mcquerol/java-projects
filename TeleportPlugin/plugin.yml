@@ -1,0 +1,7 @@
+name: MatsTP
+main: me.bukkit.MatCeba14.MatsTP
+version: 1.0
+commands:
+   RTP:
+      description: random teleport.
+      usage: /<command>
