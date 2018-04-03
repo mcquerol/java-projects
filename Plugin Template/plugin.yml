@@ -1,0 +1,7 @@
+name: MyFirstPlugin
+main: me.bukkit.MatCeba14.PluginName
+version: 1.0
+commands:
+   Command:
+      description: Blank description.
+      usage: /<command>
