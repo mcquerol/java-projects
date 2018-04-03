@@ -1,0 +1,7 @@
+name: Zombie Kill Count
+main: me.MatCeba14.zombiekills
+version: 1.0
+commands:
+   zombiekills:
+      description: Number of zombies killed.
+      usage: /<command>
